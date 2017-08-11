@@ -7,7 +7,7 @@
     margin-left: 2%;
 }
 .button {
-    /*margin: 5px;*/
+    margin: 5px;
     margin-top: 20px;
     float: left;
     width: 100%;
@@ -68,4 +68,5 @@
 .next {
     width: 50%;
     text-align: right;
+    margin-right: 20px;
 }
